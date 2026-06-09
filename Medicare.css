@@ -130,6 +130,8 @@ font-size:20px;
 
 line-height:30px;
 
+color:darkblue;
+
 }
 
 /* ================= BUTTONS ================= */
@@ -345,7 +347,7 @@ box-shadow:0 5px 15px rgba(0,0,0,0.2);
 
 }
 
-label{
+.form label{
 
 font-weight:bold;
 
